@@ -3,7 +3,6 @@ Problem Statement: Given an array of N integers, your task is to find unique qua
 Pre-req: 3-sum problem and 2-sum problem
 
 Note:
-
 0 <= a, b, c, d < n
 a, b, c, and d are distinct.
 arr[a] + arr[b] + arr[c] + arr[d] == target

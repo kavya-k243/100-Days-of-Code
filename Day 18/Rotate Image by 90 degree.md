@@ -2,7 +2,8 @@ Problem Statement: Given a matrix, your task is to rotate the matrix 90 degrees 
 
 Note: Rotate matrix 90 degrees anticlockwise
 
-Examples
+Examples:
+
 Example 1:
 
 Input: [[1,2,3],[4,5,6],[7,8,9]]

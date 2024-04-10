@@ -1,0 +1,1 @@
+Problem Statement: Given an array of N integers, the task is to replace each element of the array by its rank in the array.

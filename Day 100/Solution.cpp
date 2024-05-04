@@ -32,7 +32,7 @@ bool wildcardMatching(string &S1, string &S2) {
                 }
             }
         }
-        prev = cur; 
+        prev=cur; 
     }
 
     return prev[m];
